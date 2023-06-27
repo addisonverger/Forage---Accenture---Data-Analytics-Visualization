@@ -10,4 +10,10 @@ Social Buzz is a social media & content creation company that has reached a mass
 
 ## Task 2: Data Cleaning & Modeling
 
-* Read & understand the data model to identify which datasets will be required to answer the business question: top 5 categories with the largest popularity
+* Read & understand the data model to identify which datasets will be required to answer the business question: top 5 categories with the largest popularity.
+* Perform data cleaning to prepare the data sets for analysis.
+* Perform data modeling to identify the top 5 categories.
+
+To identify the top 5 categories by popularity, I worked with the Reaction, Content, & Reaction Types data sets. I performed data cleaning on each of the data sets, using Excel, including: removing irrelevant columns, removing rows with missing values, and creating uniform values for incongruent naming conventions. I performed data modeling by merging the three data sets, using the VLOOKUP formula, and aggregating the total scores by category, using the SUMIF formula. 
+
+The top 5 categories are: animals, science, healthy eating, technology, and food.
