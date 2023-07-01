@@ -25,6 +25,6 @@ The top 5 categories are: animals, science, healthy eating, technology, and food
 
 Using Powerpoint, I recapped the project presented to us by Social Buzz, identified the problem this presentation is focused on addressing, broke down the analytics team, outlined our process, uncovered the insights provided by the data analysis, and summarized the team's findings, analysis of the findings, and next steps. 
 
-I included two data charts:
+I included two data charts (created using PivotTables in Excel):
 * A bar chart was the best choice to illustrate the top 5 content categories by aggregate popularity score and show the difference in aggregate score for each category.
 * A pie chart was used to reformat the data and was the best choice to illustrate the popularity percentage split for each of the top 5 categories.
