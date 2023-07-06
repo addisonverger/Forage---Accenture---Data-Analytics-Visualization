@@ -28,3 +28,7 @@ Using Powerpoint, I recapped the project presented to us by Social Buzz, identif
 I included two data charts (created using PivotTables in Excel):
 * A bar chart was the best choice to illustrate the top 5 content categories by aggregate popularity score and show the difference in aggregate score for each category.
 * A pie chart was used to reformat the data and was the best choice to illustrate the popularity percentage split for each of the top 5 categories.
+
+## Task 4: Present to the Client
+
+* Create and record a presentation to the client using the presentation from Task 3.
